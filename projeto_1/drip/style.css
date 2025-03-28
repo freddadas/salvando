@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(207, 254, 239);
+    background-image: url(../imagens/he.jpg);
+    color: rgb(195, 247, 252);
+    font-style: oblique; 
+}
+
+aside {
+    color: rgb(169, 213, 223);
+    font-size: larger;
+}
+
+nav {
+    font-style: comic;
+    font-weight: bold;
+    line-height: 2cm;
+    font-size: 6ch;
+    background-color: rgb(174, 225, 218, 0.2);
+    border: 0.2ch solid black;
+}
+footer {
+    font-style: comic;
+    color: rgb(246, 228, 228);
+    font-weight: bold;
+    line-height: 1cm;
+    font-size: 4ch;
+    background-color: rgb(255, 255, 255, 0.1);
+}
+
+.nav__menu{
+    margin-right: 1.4em;
+}
+.pesinho__eita{
+    justify-content: center;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.maosinha__oloko{
+    justify-content: right;
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: rgb(174, 225, 218, 0.2);
+    color: blueviolet;
+    border: 0.3ch  solid black;
+     border-style: dotted dashed solid dashed;
+}
+
+article {
+    background-color: rgba(17, 224, 251, 0.1);
+    color: rgb(21, 37, 140);
+    border: 0.2ch solid black;
+    padding-right: 0.2ch;
+    margin-right: 0 auto;
+}
+
+span {
+    background-color: rgb(174, 225, 218, 0.1);
+    border: 0.2ch white;
+    border-style: dashed;
+    color: rgb(255, 255, 255);
+}
